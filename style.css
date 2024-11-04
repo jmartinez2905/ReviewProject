@@ -1,0 +1,168 @@
+.p {
+    padding-right: 55%;
+    color: #141414;
+    font-family: nunito-sans;
+
+}
+
+#Home {
+    background-image: url(images-20240920T181253Z-001/images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    background-repeat: no-repeat;
+    padding-bottom: 20%;
+    background-size: cover;
+    margin-bottom: 7%;
+}
+
+#au {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#skills {
+    background-color: #F5F5F5;
+    background-size: cover;
+    padding-left: 5%;
+    padding-top: 13%;
+    padding-bottom: 13%;
+}
+
+#still {
+    background-size: cover;
+    background-image: url(images-20240920T181253Z-001/images/stil-sHGyGynyD5Y-unsplash.png);
+}
+
+#au3 {
+    background-color: #10C9C3;
+    color: white;
+    text-align: center;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 10%;
+
+    .col-md-3 {
+        display: flex;
+        gap: 10px;
+
+        img {
+            width: 50px;
+            height: 50px;
+        
+        }
+    }
+}
+
+a:hover {
+    background-image: url(images-20240920T181253Z-001/images/icons/hover-icon.png);
+  }
+
+#LT {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Lemon\ Tea\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+    padding-top: 20%;
+}
+
+#CF {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Coconut\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+}
+
+#VP {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Vanilla\ Powder\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+}
+
+#KO {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Komaso\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+}
+
+#SP {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Spices\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+    padding-top: 20%;
+}
+
+#FS {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Salad\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+}
+
+#OO {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Olive\ Oil\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+}
+
+#SN {
+    background-image: url(images-20240920T181253Z-001/images/Package\ Design\ Seaweed\ -\ fabian\ krotzer\ Frame.png);
+    background-size: cover;
+}
+
+.blank {
+    background-color: #F5F5F5;
+    padding-bottom: 10%;
+}
+
+.services {
+    text-align: center;
+    padding-top: 3%
+}
+
+.pad {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+#test {
+    background-color: #10C9C3;
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 3%;
+}
+
+.logo {
+    flex-wrap: wrap;
+    display: flex;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    justify-content: space-evenly;
+}
+
+#project {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 8%;
+    background-color: #F5F5F5;
+    justify-content: center;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding-right: 4%;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    padding: 2%;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  }
+  
+#bottom {
+    padding-top: 10%;
+    padding-bottom: 5%;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: #f5f5f5a6;
+    padding-left: 7%;
+}
